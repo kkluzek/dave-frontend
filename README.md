@@ -15,8 +15,8 @@
 - [React Hook Form](https://react-hook-form.com/)
 - [recharts](https://recharts.org/en-US/)
 ### Testing
-- [Testing Library](https://testing-library.com/)
 - [Vitest](https://vitest.dev/)
+- [Testing Library](https://testing-library.com/)
 - [MSW](https://mswjs.io/)
 ### Storybook
 - [Storybook](https://storybook.js.org/)
